@@ -1,0 +1,6 @@
+[submodule "learning_ros"]
+	path = learning_ros
+	url = https://github.com/wsnewman/learning_ros.git
+[submodule "learning_ros_external_packages"]
+	path = learning_ros_external_packages
+	url = https://github.com/wsnewman/learning_ros_external_packages.git
